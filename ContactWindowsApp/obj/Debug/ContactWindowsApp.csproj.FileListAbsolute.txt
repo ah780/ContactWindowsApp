@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactWindowsApp.exe.config
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactWindowsApp.exe
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactWindowsApp.pdb
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactBusnisLayer.dll
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactDataAccesLayer.dll
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactBusnisLayer.pdb
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\bin\Debug\ContactDataAccesLayer.pdb
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.AddNewClient.resources
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.Properties.Resources.resources
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactW.6B2D0E2C.Up2Date
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.exe
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.pdb
+C:\Users\user\source\repos\ContactWindowsApp\ContactWindowsApp\obj\Debug\ContactWindowsApp.MainForm.resources
